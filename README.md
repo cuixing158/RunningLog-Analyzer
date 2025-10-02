@@ -1,5 +1,7 @@
 # Running Data Summary
 
+[![View RunningLog-Analyzer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/182187-runninglog-analyzer)
+
 This project leverages [MATLAB Mobile™](https://www.mathworks.com/products/matlab-mobile.html) to automatically collect phone raw sensor data (enable `position` option which including latitude, longitude, altitude, etc.). The data is then uploaded to MATLAB Drive (e.g., the default 'MobileSensorData' directory). An automated script then quantitatively analyzes the running data, generates visualizations, and pushes the results to a GitHub repository to showcase the latest running data. **All of this is seamlessly accomplished using MATLAB Mobile™**.
 
 > [!NOTE]
