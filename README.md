@@ -7,6 +7,7 @@ This project leverages [MATLAB Mobile™](https://www.mathworks.com/products/mat
 > [!NOTE]
 > If you're interested in contributing to this project MATLAB automation script, please [open an issue](https://github.com/cuixing158/RunningLog-Analyzer/issues) or contact me at cuixingxing150@gmail.com. If you find my work helpful, I'd gratefully accept a small tip via [Buy Me a Coffee](https://raw.githubusercontent.com/cuixing158/OpticalFlow-Visualization/refs/heads/main/README_media/sponsors.jpg) — thank you!
 
+
 | Date | Distance (km) | Duration | Elevation Gain (m) | Elevation Loss (m) | Avg Speed (km/h) | Trajectory Map | Altitude-Speed Plot | Speed Histogram |
 |------|---------------|----------|--------------------|--------------------|------------------|----------------|---------------------|-----------------|
 | 2025-09-18 | 7.78 | 01:07:50 | 338 | 377 | 6.88 | <details><summary>点击预览</summary><img src="./images/2025-09-18_gps_trajectory.jpg" alt="Trajectory" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-09-18_altitude_speed.jpg" alt="Altitude-Speed" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-09-18_speed_histogram.jpg" alt="Speed Histogram" width="600" /></details> |
@@ -17,6 +18,7 @@ This project leverages [MATLAB Mobile™](https://www.mathworks.com/products/mat
 | 2025-10-10 | 4.39 | 00:32:02 | 111 | 143 | 8.22 | <details><summary>点击预览</summary><img src="./images/2025-10-10_gps_trajectory.jpg" alt="Trajectory" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-10_altitude_speed.jpg" alt="Altitude-Speed" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-10_speed_histogram.jpg" alt="Speed Histogram" width="600" /></details> |
 | 2025-10-11 | 4.47 | 00:36:39 | 121 | 202 | 7.32 | <details><summary>点击预览</summary><img src="./images/2025-10-11_gps_trajectory.jpg" alt="Trajectory" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-11_altitude_speed.jpg" alt="Altitude-Speed" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-11_speed_histogram.jpg" alt="Speed Histogram" width="600" /></details> |
 | 2025-10-13 | 9.36 | 01:11:20 | 394 | 408 | 7.87 | <details><summary>点击预览</summary><img src="./images/2025-10-13_gps_trajectory.jpg" alt="Trajectory" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-13_altitude_speed.jpg" alt="Altitude-Speed" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-13_speed_histogram.jpg" alt="Speed Histogram" width="600" /></details> |
+| 2025-10-15 | 3.95 | 00:35:24 | 142 | 188 | 6.70 | <details><summary>点击预览</summary><img src="./images/2025-10-15_gps_trajectory.jpg" alt="Trajectory" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-15_altitude_speed.jpg" alt="Altitude-Speed" width="600" /></details> | <details><summary>点击预览</summary><img src="./images/2025-10-15_speed_histogram.jpg" alt="Speed Histogram" width="600" /></details> |
 
 
 
