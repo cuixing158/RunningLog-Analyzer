@@ -5,7 +5,7 @@
 This project leverages [MATLAB Mobile™](https://www.mathworks.com/products/matlab-mobile.html) to automatically collect phone raw sensor data (enable `position` option which including latitude, longitude, altitude, etc.). The data is then uploaded to MATLAB Drive (e.g., the default 'MobileSensorData' directory). An automated script then quantitatively analyzes the running data, generates visualizations, and pushes the results to a GitHub repository to showcase the latest running data. **All of this is seamlessly accomplished using MATLAB Mobile™**.
 
 > [!NOTE]
-> If you're interested in contributing to this project MATLAB automation script, please [open an issue](https://github.com/cuixing158/RunningLog-Analyzer/issues) or contact me at cuixingxing150@gmail.com. If you find my work helpful, I'd gratefully accept a small tip via [Buy Me a Coffee](https://raw.githubusercontent.com/cuixing158/OpticalFlow-Visualization/refs/heads/main/README_media/sponsors.jpg) — thank you!
+> If you're interested in this project(automatic script files), please [open an issue](https://github.com/cuixing158/RunningLog-Analyzer/issues) or contact me at cuixingxing150@gmail.com
 
 
 | Date | Distance (km) | Duration | Elevation Gain (m) | Elevation Loss (m) | Avg Speed (km/h) | Trajectory Map | Altitude-Speed Plot | Speed Histogram |
